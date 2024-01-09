@@ -1,4 +1,4 @@
-package br.com.weslarruda.projetopicpaybackend.exceptions;
+package br.com.weslarruda.bankaccountbackend.exceptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package br.com.weslarruda.projetopicpaybackend.modules.user;
+package br.com.weslarruda.bankaccountbackend.modules.user;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
